@@ -1,6 +1,8 @@
 # NGUITools
 这是一个基于NGUI的资源检测工具
 
+导入说明：导入Assets下任一文件夹即可（ LogEditor的第22行需改成CheckDebug.cs的实际路径）
+
 并非原创，只是在别人的基础上进行增删功能
 **原链接：https://www.cnblogs.com/yougoo/p/10075822.html**
 
